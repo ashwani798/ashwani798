@@ -1,6 +1,8 @@
-# Hello World!, I'm Ashwani, a Indian Software Developer 👋🏼:  
-🚀 Currently exploring the world of Python and Django to build impactful web applications.  
-📚 Passionate about problem-solving and continually enhancing my skills in full-stack development.
+# Hello World!, I'm Ashwani, an Indian Software Developer 👋🏼:  
+<img align="right" src="https://github.com/ashwani798/ashwani798/blob/main/ashurobo.png?raw=true" alt="Ashwani's Robo" width="150" style="margin-top:-60px;" />  
+🚀 Currently exploring the world of Python and Django to build impactful web applications.<br>  
+📚 Passionate about problem-solving and continually enhancing my skills in full-stack development.<br>  
+🌱 Always eager to learn new technologies.
 
 
 ## 🌐 Socials:
